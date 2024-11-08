@@ -1,3 +1,4 @@
+//* Exemplos de Inicialização e Manipulação de Arrays *//
 import java.util.Scanner;
 
 public class Arrayz { 
