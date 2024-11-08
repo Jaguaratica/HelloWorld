@@ -1,4 +1,4 @@
-/* Exibindo Elementos de um Vetor do Início ao Fim e do Fim ao Início */
+//* Exibindo Elementos de um Vetor do Início ao Fim e do Fim ao Início *//
 public class TrasFrente { 
     public static void main(String[] args) {
         int v[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
