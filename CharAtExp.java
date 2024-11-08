@@ -1,3 +1,4 @@
+//* Localização da letra em uma palavra e exemplo de Uso do Método charAt *//
 public class CharAtExp {
 
     public static void main(String[] args) {
@@ -8,4 +9,3 @@ public class CharAtExp {
         System.out.println("Letra = " + letra);
     }
 }
-//* Localização da letra em uma palavra *//
