@@ -1,3 +1,4 @@
+//* Cálculo de IMC e Classificação de Peso *//
 import java.util.Scanner;
 
 public class Imc {
