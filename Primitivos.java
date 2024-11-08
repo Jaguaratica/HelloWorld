@@ -1,4 +1,4 @@
-/* Exemplo de Tipos Primitivos em Java e Condições Simples */
+//* Exemplo de Tipos Primitivos em Java e Condições Simples *//
 public class Primitivos{
     public static void main(String[] args) {
         // No total são 8 tipos primitivos (char, boolean, double, float), 4 deles do tipo inteiro (byte, short, int, long).
