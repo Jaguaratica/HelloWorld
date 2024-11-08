@@ -1,4 +1,4 @@
-/* Leitura de Entrada do Usuário com Scanner */
+//* Leitura de Entrada do Usuário com Scanner *//
 import java.util.Scanner;
 
 public class ScannerExp {
