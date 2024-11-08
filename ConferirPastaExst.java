@@ -1,3 +1,4 @@
+//* Verificando se um Caminho se Refere a um Diretório em Java *//
 import java.io.File;
 
 public class ConferirPastaExst {
