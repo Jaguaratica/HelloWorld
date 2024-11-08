@@ -1,4 +1,4 @@
-// Estrutura de Dados para representar uma lista dinâmica (ArrayList)
+//* Estrutura de Dados para representar uma lista dinâmica (ArrayList) - INCOMPLETO *//
 import java.util.ArrayList;
 
 public class Primitivos{
