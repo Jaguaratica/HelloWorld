@@ -1,3 +1,4 @@
+//* Verificando a Existência de um Arquivo ou Diretório *//
 import java.io.File;
 
 public class ConferirArquivoExst {
