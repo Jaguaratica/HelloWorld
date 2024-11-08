@@ -1,3 +1,4 @@
+//* Declaração e Inicialização de Arrays *//
 public class Arrayzito {
 
 	public static void main(String[] args) {
