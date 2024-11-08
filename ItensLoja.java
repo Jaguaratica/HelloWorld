@@ -1,3 +1,4 @@
+/* Gestão de Inventário de Loja com Adição de Itens */
 import java.util.Scanner;
 
 public class ItensLoja {
