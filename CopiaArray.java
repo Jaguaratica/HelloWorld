@@ -1,3 +1,4 @@
+//* Copiando Elementos de um Array para Outro em Java *//
 public class CopiaArray {
     public static void main(String[] args) {
         // Declaração e inicialização de um array de caracteres chamado 'array1' com as letras 'j', 'a', 'v', 'a', 'l', 'i'
