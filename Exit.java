@@ -1,3 +1,4 @@
+//* Uso do System.exit() para Encerrar o Programa *//
 public class Exit {
 	public static void main(String[] args) {
 		
