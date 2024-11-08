@@ -1,4 +1,4 @@
-/* Cálculo de Salário com Reajuste e Gratificação por Cargo */
+//* Cálculo de Salário com Reajuste e Gratificação por Cargo *//
 import java.util.Scanner;
 
 public class Salario {
