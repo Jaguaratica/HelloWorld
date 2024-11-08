@@ -1,4 +1,4 @@
-/*Extração de Substring de uma Palavra*/
+//* Extração de Substring de uma Palavra *//
 public class SubstringExp {
 
     public static void main(String[] args) {
