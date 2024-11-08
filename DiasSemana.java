@@ -1,3 +1,4 @@
+//* Exibindo os Dias da Semana Usando um Array *//
 public class DiasSemana {
 	public static void main(String[] args) {
 		String[] semana = new String[7];  // Corrigido o tipo do array
