@@ -1,4 +1,4 @@
-/* Exemplo de Ordenação de Arrays (Crescente e Decrescente) */
+//* Exemplo de Ordenação de Arrays (Crescente e Decrescente) *//
 import java.util.Arrays;
 
 public class Organizar {
