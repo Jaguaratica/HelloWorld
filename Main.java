@@ -1,4 +1,4 @@
-/* Exemplo de Atribuição e Pré-Incremento */
+//* Exemplo de Atribuição e Pré-Incremento *//
 public class Main {
 
     public static void main(String[] args) {
