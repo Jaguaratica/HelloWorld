@@ -1,3 +1,4 @@
+//* Cálculo do Determinante de uma Matriz 2x2 *//
 public class BidimensionalArray {
     public static void main(String[] args) {
         // declaração e construção de array 2x2
